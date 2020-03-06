@@ -1,7 +1,6 @@
 ##--------------------------------------------------------------------##
 ## Hackathon - 2019 Carolina Data Challenge
-## Author: Taylor Kooy
-## Credits: ['Chris Goodrich', 'Meghan Weber', 'Supreet Deshpande']
+## Authors: Chris Goodrich and Taylor Kooy
 ## Date: 10/05/19 - 10/06/19
 ##--------------------------------------------------------------------##
 
