@@ -3,9 +3,9 @@
 
 ---
 
-Myself and three other students from NC State's Master in Analytics program (Supreet Desphpande, Taylor Kooy, and Meghan Weber) won 1st place in the main even "best insight" at the 2019 Carolina Data Challenge over more than 50 other teams. We had 24 hours to explore several datasets and perform an analysis to generate insights about the data provided.
+Myself and three other students from NC State's Master in Analytics program (Supreet Desphpande, Taylor Kooy, and Meghan Weber) won 1st place in the primary category "best insight" at the 2019 Carolina Data Challenge while competing against more than 50 other teams. We had 24 hours to explore several datasets and perform an analysis to generate insights about the data provided.
 
-One of the avaliable datasets was data about U.S. agricultural imports and exports. After some research I discovered that one particular product, sorghum, was a crop that the U.S. almost exclusively exported to China in the past, and that trade had dropped to near zero due to the trade war with China that began in early 2018. Given this, if we could forecast what exports should have been, we could roughly approximate the loss due to the trade war. We generated this forecast using time series techniques, and compared it to real-world export values.
+One of the avaliable datasets was data about U.S. agricultural imports and exports. After some research I discovered that one particular product, sorghum, was a crop that the U.S. almost exclusively exported to China in the past, and that trade had dropped to near zero due to the trade war with China that began in early 2018. Given this, if we could forecast what exports would have been, we could approximate the loss due to the trade war. We generated this forecast using time series techniques, and compared it to real-world export values.
 
 My teammate posted our winning Tableu presentation to her public profile here:
 https://public.tableau.com/profile/meghan.weber2859#!/vizhome/UNCDataChallenge/Story1
